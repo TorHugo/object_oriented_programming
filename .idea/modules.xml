@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_classe_objeto/01_classe_objeto.iml" filepath="$PROJECT_DIR$/01_classe_objeto/01_classe_objeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_visibilidade_metodos/02_visibilidade_metodos.iml" filepath="$PROJECT_DIR$/02_visibilidade_metodos/02_visibilidade_metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_getter_setter_construtor/03_getter_setter_construtor.iml" filepath="$PROJECT_DIR$/03_getter_setter_construtor/03_getter_setter_construtor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_exercicio/04_exercicio.iml" filepath="$PROJECT_DIR$/04_exercicio/04_exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_encapsulamento/05_encapsulamento.iml" filepath="$PROJECT_DIR$/05_encapsulamento/05_encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_objetos_compostos/06_objetos_compostos.iml" filepath="$PROJECT_DIR$/06_objetos_compostos/06_objetos_compostos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_em_video.iml" filepath="$PROJECT_DIR$/curso_em_video.iml" />
+    </modules>
+  </component>
+</project>
