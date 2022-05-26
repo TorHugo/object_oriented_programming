@@ -1,4 +1,4 @@
-public class Lutador implements LutaInterface {
+public class Lutador {
     private String nome;
     private String nacionalidade;
     private int idade;
@@ -116,8 +116,6 @@ public class Lutador implements LutaInterface {
 
 
     //
-
-    @Override
     public void apresentar() {
         System.out.println("----- APRESENTAÇÃO -----");
         System.out.println("LUTADOR: " + this.getNome());
@@ -130,7 +128,6 @@ public class Lutador implements LutaInterface {
         System.out.println("EMPATES: " + this.getEmpates());
     }
 
-    @Override
     public void status() {
         System.out.println("----- STATUS -----");
         System.out.println("NOME: " + this.getNome());
@@ -140,18 +137,16 @@ public class Lutador implements LutaInterface {
         System.out.println("EMPATES: " + this.getEmpates());
     }
 
-    @Override
     public void ganharLuta() {
         this.setVitorias(this.getVitorias() + 1);
     }
 
-    @Override
     public void perderLuta() {
         this.setDerrotas(this.getDerrotas() + 1);
     }
 
-    @Override
     public void empatarLuta() {
         this.setEmpates(this.getEmpates() + 1);
     }
+
 }

@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/04_exercicio/04_exercicio.iml" filepath="$PROJECT_DIR$/04_exercicio/04_exercicio.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_encapsulamento/05_encapsulamento.iml" filepath="$PROJECT_DIR$/05_encapsulamento/05_encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_objetos_compostos/06_objetos_compostos.iml" filepath="$PROJECT_DIR$/06_objetos_compostos/06_objetos_compostos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_agregacao_objetos/07_agregacao_objetos.iml" filepath="$PROJECT_DIR$/07_agregacao_objetos/07_agregacao_objetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/curso_em_video.iml" filepath="$PROJECT_DIR$/curso_em_video.iml" />
     </modules>
   </component>

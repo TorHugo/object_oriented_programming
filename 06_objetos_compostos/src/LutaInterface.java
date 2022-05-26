@@ -1,4 +1,4 @@
-public interface Luta {
+public interface LutaInterface {
     public abstract void apresentar();
     public abstract void status();
     public abstract void ganharLuta();
