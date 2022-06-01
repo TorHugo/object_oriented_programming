@@ -9,6 +9,11 @@
       <module fileurl="file://$PROJECT_DIR$/05_encapsulamento/05_encapsulamento.iml" filepath="$PROJECT_DIR$/05_encapsulamento/05_encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_objetos_compostos/06_objetos_compostos.iml" filepath="$PROJECT_DIR$/06_objetos_compostos/06_objetos_compostos.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_agregacao_objetos/07_agregacao_objetos.iml" filepath="$PROJECT_DIR$/07_agregacao_objetos/07_agregacao_objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_exercicio/08_exercicio.iml" filepath="$PROJECT_DIR$/08_exercicio/08_exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_heranca_pt1/09_heranca.iml" filepath="$PROJECT_DIR$/09_heranca_pt1/09_heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_heranca_pt2/09_heranca_pt2.iml" filepath="$PROJECT_DIR$/09_heranca_pt2/09_heranca_pt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_polimorfismo/10_polimorfismo.iml" filepath="$PROJECT_DIR$/10_polimorfismo/10_polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_polimorfismo_pt2/11_polimorfismo_pt2.iml" filepath="$PROJECT_DIR$/11_polimorfismo_pt2/11_polimorfismo_pt2.iml" />
       <module fileurl="file://$PROJECT_DIR$/curso_em_video.iml" filepath="$PROJECT_DIR$/curso_em_video.iml" />
     </modules>
   </component>
